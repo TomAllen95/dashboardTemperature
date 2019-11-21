@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dashboardTemperature/static/css/main.d337b5b7.chunk.css",
+    "main.js": "/dashboardTemperature/static/js/main.cea21d96.chunk.js",
+    "main.js.map": "/dashboardTemperature/static/js/main.cea21d96.chunk.js.map",
+    "runtime-main.js": "/dashboardTemperature/static/js/runtime-main.29e13212.js",
+    "runtime-main.js.map": "/dashboardTemperature/static/js/runtime-main.29e13212.js.map",
+    "static/js/2.3d4269d1.chunk.js": "/dashboardTemperature/static/js/2.3d4269d1.chunk.js",
+    "static/js/2.3d4269d1.chunk.js.map": "/dashboardTemperature/static/js/2.3d4269d1.chunk.js.map",
+    "index.html": "/dashboardTemperature/index.html",
+    "precache-manifest.62cbdc1ba53793633f074b353869c405.js": "/dashboardTemperature/precache-manifest.62cbdc1ba53793633f074b353869c405.js",
+    "service-worker.js": "/dashboardTemperature/service-worker.js",
+    "static/css/main.d337b5b7.chunk.css.map": "/dashboardTemperature/static/css/main.d337b5b7.chunk.css.map",
+    "static/media/logo.svg": "/dashboardTemperature/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29e13212.js",
+    "static/js/2.3d4269d1.chunk.js",
+    "static/css/main.d337b5b7.chunk.css",
+    "static/js/main.cea21d96.chunk.js"
+  ]
+}
